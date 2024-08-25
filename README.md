@@ -42,6 +42,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves turni
 - **[LinkedIn](https://www.linkedin.com/in/deborahrise)**
 - **[Twitter](https://twitter.com/iam_deborahrise)**
 - **[Website](https://www.deborahrisetech.com)**
-- **[Email](deborahrise247@gmail.com)**
+- **[Email](https://mail.google.com/deborahrise247)**
 
 Let's create something amazing together! Feel free to reach out, collaborate, or just say hi! 🌟
