@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves turni
 
 ## 💻 What I Do
 
-- **Frontend Wizardry**: Crafting beautiful and responsive web and mobile interfaces with **React**, **CSS**, **Sass**, and **JavaScript**.✨
+- **Frontend Wizardry**: Crafting beautiful and responsive web and mobile interfaces with **React.js**, **React Native**,  **CSS**, **Sass**, and **JavaScript**.✨
 - **Backend Sorcery**: Building robust server-side applications with **Node.js**, **Express.js**, and **Flask**.🔧
 - **Database Whisperer**: Designing efficient and scalable databases using **MySQL** and **MongoDB** solutions.📊
 - **Code Conjuring**: Writing clean and efficient code in **Python**, **C**, and **JavaScript**.🐍
