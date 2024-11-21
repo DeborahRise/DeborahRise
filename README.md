@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Deborah Rise here! (Did you hear my rhymes here 🤓)
+# 👋 Hi there, It's Deborah Rise here! (Did you hear my rhymes here 🤓)
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves turning ideas into reality. With a background in both software development and creative pursuits, I'm always eager to tackle new challenges and build amazing projects. 🚀
 
