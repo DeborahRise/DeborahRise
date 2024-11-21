@@ -11,13 +11,14 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves turni
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: ReactJS, ReactNative, JavaScript, CSS, Sass, HTML, C
+- **Frontend**: ReactJS, EXPO, ReactNative, JavaScript, CSS, Sass, HTML, C
 - **Backend**: Node.js, Express.js, Python, Flask
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, Webpack, npm, VSCode
+- **Database**: MySQL, MongoDB, Prisma ORM
+- **Tools**: Git, Webpack, npm, VSCode, console ninja.
 
 ## 🚀 Projects
-
+- **[RedewGlobal](#)**: A real estate, automobile and auto spare parts listing web app and can be replicated for many otehr business modules.
+- **[Mychi Dating App](#)**: A Mobile dating app for techies to find someone who fuels your energy, connect, mingle, find love.
 - **[Tech Connect](#)**: A social media app for tech enthusiasts to connect and share knowledge.
 - **[Job Listing App](#)**: A platform to browse and post job listings.
 - **[Cat Lovers App](#)**: A fun app to get random cat facts.
